@@ -129,3 +129,6 @@ Removes the plugin from your element.
 ## Credits
 
 Particleground was inspired by http://requestlab.fr/ and http://disruptivebydesign.com/ 
+
+## License 
+ The MIT License (MIT)
